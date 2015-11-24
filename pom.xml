@@ -4,13 +4,13 @@
     <parent>
 		<groupId>de.foconis.starter</groupId>
 		<artifactId>foconis-starter</artifactId>
-		<version>1.0.12</version>
+		<version>1.0.13</version>
 		<relativePath />
     </parent>
 
 
     <scm>
-		<developerConnection>scm:git:ssh://git@stash.foconis.de:7999/mvn/p2-maven-plugin.git</developerConnection>
+		<developerConnection>scm:git:ssh://git@bitbucket.foconis.de:7999/mvn/p2-maven-plugin.git</developerConnection>
       <tag>v1.2.1-FOC</tag>
   </scm>
 	
