@@ -10,7 +10,7 @@
 
 
     <scm>
-		<developerConnection>scm:git:ssh://git@stash.foconis.de:7999/mvn/p2-maven-plugin.git</developerConnection>
+		<developerConnection>scm:git:ssh://git@bitbucket.foconis.de:7999/mvn/p2-maven-plugin.git</developerConnection>
       <tag>v1.2.1-FOC</tag>
   </scm>
 	
